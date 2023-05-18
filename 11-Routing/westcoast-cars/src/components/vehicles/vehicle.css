@@ -1,0 +1,8 @@
+.vehicles-gallery li {
+  border: solid 1px var(--secondary-color);
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+  background-color: var(--light-color);
+  color: var(--text-color-dark);
+}
